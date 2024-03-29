@@ -1,7 +1,7 @@
 # OpenGL Graphics Programming Demo Scene
 
 ## Aim
-This demo was part of my final coursework for the Computer Graphics module around late 2022. The requirements by means of the core features were fairly basic. So, I went much beyond that in learning and implementing various features.
+This demo was part of my final coursework for the Computer Graphics module around late 2023. The requirements by means of the core features were fairly basic. So, I went much beyond that in learning and implementing various features.
 
 # Screenshots
 ![ten](https://github.com/essentialblend/openGLgfxDemo/assets/73982939/8632bb01-9df4-4d75-aaec-ff118d5a572b)
